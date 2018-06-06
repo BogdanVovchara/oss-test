@@ -27,7 +27,7 @@ a {
 }
 
 .wrapper div {
-    padding: 12px;
+    padding: 1.2rem;
 }
 
 .container {
@@ -80,12 +80,13 @@ nav {
     font-size: 1.8rem;
     justify-content: space-between;
     align-items: center;
-    padding: 12px;
+    padding: 1.2rem;
 }
 
 .menu li {
     display: inline-block;
     margin: 0 30px;
+    text-align: center;
 }
 
 input[type="search"] {
@@ -163,7 +164,7 @@ div.img-block {
 }
 
 footer {
-    height: 170px;
+    height: 17rem;
 }
 
 footer ul {
@@ -208,7 +209,7 @@ footer li {
         margin: 5px auto;
     }
     .menu li {
-        margin: 5px 22px;
+        margin: 5px 2.2rem;
     }
 }
 
