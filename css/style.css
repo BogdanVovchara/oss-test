@@ -154,7 +154,9 @@ div.img-block {
 .text-block {
     width: calc(100% - 21.8rem);
 }
-
+.text-block .more{
+	margin-left: auto;
+}
 .title {
     font-size: 1.85rem;
     text-indent: 0;
